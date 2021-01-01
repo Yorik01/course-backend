@@ -1,0 +1,16 @@
+/node_modules
+/dist
+/files
+
+package-lock.json
+
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+
+#ESLint
+.eslintcache
+
+swagger.json
